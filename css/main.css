@@ -383,6 +383,11 @@ span {
     margin: 30px 0;
 }
 
+.form h1 {
+    margin: 20px 0;
+    text-align: center;
+}
+
 
 input {
     font-size: 30px;
